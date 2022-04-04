@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @inkedup760
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @inkedup760 tattoos
+- 👀 I’m interested in ..tattoos
+- 🌱 I’m currently learning ...tattoos
+- 💞️ I’m looking to collaborate on ...tattoos
+- 📫 How to reach me ...tattoos
 
 <!---
 inkedup760/inkedup760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
